@@ -322,7 +322,7 @@ Sistem prediksi dapat digunakan sebagai alat bantu untuk siswa, guru, dan orang 
 - Géron, A. (2022). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd ed.). O'Reilly Media.
 - Dua, D., & Graff, C. (2017). UCI Machine Learning Repository http://archive.ics.uci.edu/datasets. Irvine, CA: University of California, School of Information and Computer Science.
 - Raschka, S., & Mirjalili, V. (2019). Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 (3rd ed.). Packt Publishing. https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/python-machine-learning-and-deep-learning-with-python-scikit-learn-and-tensorflow-2.pdf
-- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning with Applications in R (2nd ed.). Springer. https://www.casact.org/sites/default/files/2022-12/James-G.-et-al.-2nd-edition-Springer-2021.
+- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning with Applications in R (2nd ed.). Springer. https://riskcue.id/uploads/ebook/20221114151616-2022-11-14ebook151603.pdf
 
 # Lampiran
 Dataset Lengkap
